@@ -14,7 +14,7 @@ const Home:React.FC = ()=>{
 return<>
 <Container><Section > 
      <div style={{fontSize:'28px'}}>RENTAL CAR PROJECT - BEST CHOOSE FOR YOUR RIDE!</div> 
-      <div ><img src="../../public/hero.jpg" alt="car rental project hero image" style={{display:'block',width:'700px'}}/></div></Section>  
+      <div ><img src="/hero.jpg" alt="car rental project hero image" style={{display:'block',width:'700px'}}/></div></Section>  
     </Container>
 </>
 }
