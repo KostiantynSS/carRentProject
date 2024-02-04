@@ -54,7 +54,7 @@ const Modal:React.FC<ModalProps> = ({ car, onClose }) => {
                     name="close"
                     iconWidth={{ mobile: '24px', tablet: '24px' }}
                     iconHeight={{ mobile: '24px', tablet: '24px' }}
-           
+           stroke='#121417'
                     onClick={handleClose}
                
                   />
