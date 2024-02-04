@@ -1,5 +1,5 @@
 import { StyledIcon } from './Icon.styled';
-import sprite from '../../assets/sprite.svg';
+import sprite from '../../../public/sprite.svg';
 
 interface IconProps {
   name: string;
